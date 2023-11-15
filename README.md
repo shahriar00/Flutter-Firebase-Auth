@@ -1,1 +1,1 @@
-## This is signIn and signUp authentication apps with firebase.
+## This is a signIn and signUp authentication application with firebase.
